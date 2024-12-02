@@ -1,0 +1,5 @@
+PySide6==6.6.0
+selenium==4.15.2
+webdriver-manager==4.0.1
+requests==2.31.0
+mcrcon==0.7.0 
